@@ -7,7 +7,7 @@ import redis
 import logging
 from time_fun import fn_timer
 
-REDIS_URL    = 'mxbeta-watch-history.44o4jm.ng.0001.aps1.cache.amazonaws.com'
+REDIS_URL    = 'xxx'
 REDIS_PORT   = 6379
 
 class RedisUtil(object):
